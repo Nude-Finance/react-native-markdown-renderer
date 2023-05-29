@@ -31,8 +31,8 @@
     "react-native-fit-image": "^1.5.2"
   },
   "peerDependencies": {
-    "react": "18.2.0",
-    "react-native": "^0.71.0"
+    "react": "18.1.0",
+    "react-native": "^0.70.0"
   },
   "devDependencies": {
     "@rnx-kit/align-deps": "^2.2.2",
